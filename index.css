@@ -1,0 +1,27 @@
+body{
+    background-color: whitesmoke;
+}
+.box{
+    border: 5px;
+}
+
+.p {text-size-adjust: 1px;
+    padding-top: 3px;
+
+ }
+table{
+
+}
+td {
+    text-align: center;
+  }
+th, td {
+    border-bottom: 1px solid #ddd;
+    
+}
+table, th, td {
+    border: 1px solid;
+  }
+.fa{
+
+}
